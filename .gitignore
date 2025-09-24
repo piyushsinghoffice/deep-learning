@@ -1,2 +1,11 @@
 data/
 *.pth
+venv/
+__pycache__/
+.ipynb_checkpoints
+.DS_Store
+*.pyc
+.env
+.vscode/
+*.log
+*.sqlite3
