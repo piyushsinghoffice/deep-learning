@@ -9,3 +9,5 @@ __pycache__/
 .vscode/
 *.log
 *.sqlite3
+manim_anim.ipynb
+media/
